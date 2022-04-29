@@ -31,7 +31,7 @@
             ?>
             <!-- Image -->
             <div class="col-2 mt-4">
-                <img src="http://www.upnorthgeorgia.org/wp-content/uploads/2014/09/holes.jpg" class="card-img-top" alt="" />
+                <img src="https://altfilmlens.files.wordpress.com/2022/03/image-4.png?w=627" class="card-img-top" alt="" />
             </div>
             <!-- Overview -->
             <div class="col-9 text-black mt-4">
