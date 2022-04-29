@@ -18,7 +18,7 @@
 <body style="background-color: #04293A">
     <!-- Title -->
     <div class="my-3">
-        <h1 class="text-light text-center">DETAIL FILM</h1>
+        <h1 class="text-light text-center">Detail Film</h1>
     </div>
     <div class="container">
         <!-- Content -->
